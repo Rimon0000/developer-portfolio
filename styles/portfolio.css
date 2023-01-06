@@ -27,7 +27,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title{
     font-weight: 800;
@@ -147,7 +147,7 @@ section{
 .resume .title{
     font-weight: 700;
     font-size: 25px;
-    color: #474747;
+    color: #474na747;
     margin-bottom: 10px;
 }
 .resume .subtitle{
